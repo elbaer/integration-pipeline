@@ -1,0 +1,16 @@
+component-a:
+  jobId: 6f36a31c-ab87-4fbe-b288-30744f535113
+  options: |
+    fast_deploy: true
+component-b:
+  jobId: 55e458ed-a4ec-4d50-a655-720ec1462f25
+  options: |
+    fast_deploy: true
+component-c:
+  jobId: 95d43e3a-2ec4-4801-b171-1b6a0934cfc3
+  options: |
+    fast_deploy: true
+component-d:
+  jobId: 95d43e3a-2ec4-4801-b171-421014a4b8ee
+  options: |
+    fast_deploy: true

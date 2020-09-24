@@ -10,7 +10,11 @@ component-c:
   jobId: 95d43e3a-2ec4-4801-b171-1b6a0934cfc3
   options: |
     fast_deploy: true
-component-d:
+external-component-d:
   jobId: 95d43e3a-2ec4-4801-b171-421014a4b8ee
+  options: |
+    fast_deploy: true
+external--component-e:
+  jobId: 95d43e3a-2ec4-4801-b171-baf54783ee71
   options: |
     fast_deploy: true
